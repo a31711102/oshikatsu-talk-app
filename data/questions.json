@@ -1,0 +1,1245 @@
+{
+    "categories": [
+        {
+            "id": "common",
+            "name": "共通",
+            "color": "#FF6B9D",
+            "icon": "💖",
+            "questions": [
+                {
+                    "text": "推しと出会ったきっかけは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの第一印象は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しを一言で表すと？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなところベスト3は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのグッズで一番お気に入りは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの名言・名セリフは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファッションで好きなスタイルは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの笑顔で一番好きなシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの声や話し方で好きなところは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの仕草で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しと自分の共通点は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに関する夢を見たことある？どんな夢？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに会えるとしたら何をしたい？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの失敗エピソードで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに関する部屋のコーナーや飾り付けは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しとコラボしてほしいものやブランドは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの公式グッズで持ってないけど欲しいものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンネームやファンの呼び方は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しについて初めて知った時のことを覚えてる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの魅力を布教するとしたら何から紹介する？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しと同じ趣味や習慣を真似したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに憧れて始めたことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推し活仲間との思い出で一番嬉しかったことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの誕生日にはどんなお祝いをする？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのために作った手作りグッズは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに一つだけ質問できるなら何を聞く？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに一つだけプレゼントできるなら何をあげる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに元気をもらった瞬間は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの隠れた魅力を一つ教えて！",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに似てると言われたことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのおかげで得た友達や仲間はいる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのルーティンで真似してることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの成長を感じた瞬間は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの新しい一面を発見した時の気持ちは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推し活のルーティンはある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのために勉強したことや調べたことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの今後に期待することは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推し活と出会って人生に影響を与えたことは？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの夢を応援するために何をしてる？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しを好きになって変わったことは？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが辛そうな時に何をしたいと思う？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しへの愛が深まった瞬間は？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "あなたの推し活スタイルは？",
+                    "tone": "medium",
+                    "risk": "medium"
+                },
+                {
+                    "text": "推しへの愛を語るなら何分必要？",
+                    "tone": "medium",
+                    "risk": "medium"
+                },
+                {
+                    "text": "推しとの理想のデートプランは？",
+                    "tone": "medium",
+                    "risk": "medium"
+                },
+                {
+                    "text": "推しを推してることを周りに公言してる？",
+                    "tone": "medium",
+                    "risk": "medium"
+                },
+                {
+                    "text": "推し活で一番お金をかけてることは？",
+                    "tone": "medium",
+                    "risk": "medium"
+                }
+            ]
+        },
+        {
+            "id": "idol",
+            "name": "アイドル",
+            "color": "#FFA06B",
+            "icon": "🎤",
+            "questions": [
+                {
+                    "text": "推しメンのMVで一番好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きな衣装は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのダンスで好きな振り付けは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが歌ってる時の好きな表情は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなパフォーマンスシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのメンバーカラーの推しグッズは持ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのバラエティでの姿で好きなシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが他のメンバーと絡んでる時の好きな組み合わせは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの雑誌の表紙やグラビアで一番好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの特技や趣味で意外だったことは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのSNS投稿で好きな内容は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの私服センスは好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのコンサートグッズで一番のお気に入りは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "ライブで一番印象に残った曲は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのソロ曲や個人活動で好きなものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "コンサートで推しが近くに来た時のことは覚えてる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンサで嬉しかったことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが出演したテレビ番組で一番好きな回は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのラジオやトーク番組で好きなエピソードは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが影響を受けたと言ってたアーティストは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しがカバーしてた曲で好きなものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのライブMCで心に残ってることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの握手会やハイタッチ会での思い出は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "初めて推しのライブに参戦した時の感想は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの応援うちわやボードは作ったことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが他のグループとコラボした時の感想は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが頑張ってる姿を見て泣いたことは？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの公演回数や参戦数は？",
+                    "tone": "medium",
+                    "risk": "medium"
+                }
+            ]
+        },
+        {
+            "id": "streamer",
+            "name": "配信者",
+            "color": "#FFD93D",
+            "icon": "🎮",
+            "questions": [
+                {
+                    "text": "推し配信者の好きな配信企画は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信で一番笑った瞬間は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのゲーム実況で好きなゲームは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信でのリアクションで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのコラボ配信で好きな組み合わせは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの歌ってみたや歌配信で好きな曲は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの切り抜き動画でよく見るものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのモデルやデザインで好きなところは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンネームの由来は知ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなセリフや口癖は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのASMRや雑談配信は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きな企画や挑戦動画は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのコラボ楽曲で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの推しマークや絵文字は使ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの新衣装お披露目の感想は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのスーパーチャットやギフトを送ったことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信でコメント拾われたことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの3Dお披露目や記念配信の思い出は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのグッズやボイスは購入してる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのメンバーシップには入ってる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのオフコラボやイベント参加の思い出は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンアートやイラストは描いたことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きな配信の時間帯は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのアーカイブで何度も見返すものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの誕生日グッズや記念グッズの中で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが参加したリアルイベントの思い出は？（VTuberライブ含む）",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのリアルイベントやライブに参加したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンコミュニティでの交流は楽しんでる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信を見ながら実況ツイートしてる？",
+                    "tone": "medium",
+                    "risk": "medium"
+                },
+                {
+                    "text": "推しの配信スタイルで好きなところは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信での失敗エピソードで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信機材やセットアップで気になるものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信以外の活動（SNS、動画投稿など）で好きなものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信を見て元気をもらった瞬間は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの雑談配信で印象に残ってる話題は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの日常配信（料理、作業配信など）で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの質問回答配信で面白かった質問は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信での何気ない一言で心に残ってるものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの配信スケジュールや頻度は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                }
+            ]
+        },
+        {
+            "id": "actor",
+            "name": "俳優",
+            "color": "#6BCF7F",
+            "icon": "🌟",
+            "questions": [
+                {
+                    "text": "推しの出演作品で一番好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演じた役で一番好きなキャラクターは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きな演技スタイルは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの共演者で好きな組み合わせは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの衣装やメイクで好きなスタイルは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが演じてほしい役柄は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの特技や趣味で驚いたことは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのバラエティ番組での姿は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのSNS投稿で好きな内容は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの写真集やビジュアルブックは持ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのアクションシーンやスタントは好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの泣き顔演技で印象的だったシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの笑顔の演技で好きなシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの共演者との仲良しエピソードで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに演じてほしい歴史上の人物や実在の人物は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演技で印象に残ってるシーンは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの舞台を観に行ったことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの映画やドラマで何度も見返すものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのインタビューで心に残ってることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの舞台挨拶やイベントに参加したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの雑誌のインタビュー記事で印象的だったものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンレターやプレゼントを送ったことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの映画の舞台挨拶で印象的だったことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの受賞歴や評価で嬉しかったものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの次の作品で期待してることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの過去作品で初めて見たものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演技力の成長を感じた瞬間は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの役作りエピソードで興味深かったものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンクラブには入ってる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの舞台映像や配信を見たことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                }
+            ]
+        },
+        {
+            "id": "voice_actor",
+            "name": "声優",
+            "color": "#6BB6FF",
+            "icon": "🎙️",
+            "questions": [
+                {
+                    "text": "推しが演じたキャラクターで一番好きなのは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの声で好きなトーンや演技は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの歌やキャラソンで好きな曲は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの朗読やドラマCDで好きな作品は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演じ分けで驚いたキャラクターは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのゲームキャラクターで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのYouTubeチャンネルやSNSは追ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのパーソナリティが好きなところは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのトーク力やMCでの姿は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの共演声優で好きな組み合わせは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの声優ユニットやグループ活動は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きな持ちキャラや代表作は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのナレーションやCMの声は聞いたことある？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの吹き替え作品で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのバラエティ番組出演で好きな回は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの特技や趣味で意外だったことは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しが演じてほしいキャラクタータイプは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの声で目覚ましやアラームを使ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのコメンタリー音声は聞いたことある？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのラジオ番組で好きな回は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのイベントやライブに参加したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのアニメで何度も見返すシーンは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのインタビューで印象的だったことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンクラブには入ってる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのサイン会や握手会に参加したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのライブパフォーマンスで印象的だったものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのグッズやボイスは購入してる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの今後の活動で期待してることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演技で泣いたシーンは？",
+                    "tone": "deep",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの演技力の幅広さを感じた瞬間は？",
+                    "tone": "deep",
+                    "risk": "low"
+                }
+            ]
+        },
+        {
+            "id": "character",
+            "name": "キャラクター",
+            "color": "#A78BFA",
+            "icon": "✨",
+            "questions": [
+                {
+                    "text": "推しキャラの好きなセリフは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの魅力を一言で表すと？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの好きな衣装やデザインは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラと他キャラの関係性で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの戦闘シーンやアクションで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの日常シーンで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラのグッズで一番のお気に入りは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラのフィギュアやぬいぐるみは持ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラのコスプレをしたことある？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの声優さんは好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの公式イラストで一番好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラが登場するゲームはプレイしてる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラのテーマ曲やBGMは好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの笑顔で好きなシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの泣き顔で印象的なシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの怒った顔で好きなシーンは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの特技や能力で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの弱点や苦手なことは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラと自分の共通点は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラがもし現実にいたらどんな関係になりたい？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの好物や好きなものは知ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの家族や仲間関係で好きなエピソードは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの恋愛や人間関係で好きな展開は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラが登場する一番好きなエピソードは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの過去エピソードで印象的なものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの成長や変化で好きなポイントは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの誕生日はどうお祝いする？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの名シーンを何度も見返すことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの二次創作は楽しんでる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラのファンアートを描いたことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの性格で共感するところは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの信念や哲学で好きなものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラが困難を乗り越えたシーンは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しキャラの続編や新作での活躍を期待してる？",
+                    "tone": "medium",
+                    "risk": "low"
+                }
+            ]
+        },
+        {
+            "id": "athlete",
+            "name": "スポーツ選手",
+            "color": "#FF8DC7",
+            "icon": "⚽",
+            "questions": [
+                {
+                    "text": "推しの試合で一番印象に残ってるものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのプレースタイルで好きなところは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの得意技や得点シーンで好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのユニフォームやグッズは持ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのチームメイトとの関係性で好きなものは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの応援スタイルは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなプレー動画は何度も見る？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのSNS投稿で好きな内容は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなポジションやフォーメーションは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのオフシーズンの活動や趣味は知ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの若い頃や学生時代のエピソードは？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのライバルや好敵手との試合は好き？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの国際大会や大舞台での活躍は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの応援歌や応援グッズは持ってる？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの好きなユニフォーム番号や背番号は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの引退後の活動や指導者としての姿は？",
+                    "tone": "light",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの試合観戦に行ったことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのインタビューで心に残ってることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの努力エピソードで感動したものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのケガや挫折から復活したシーンは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの試合での感動した瞬間は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの記録や成績で嬉しかったものは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの表彰式や受賞の瞬間は覚えてる？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのドキュメンタリーや特集番組は見た？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの食事やトレーニング方法で真似したことは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しのファンイベントやサイン会に参加したことある？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しに影響を受けて始めたスポーツや運動は？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの今後の活躍で期待してることは？",
+                    "tone": "medium",
+                    "risk": "low"
+                },
+                {
+                    "text": "推しの移籍や所属チーム変更をどう思った？",
+                    "tone": "medium",
+                    "risk": "medium"
+                }
+            ]
+        }
+    ]
+}
