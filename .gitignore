@@ -1,0 +1,22 @@
+# 開発用ガイドファイル（公開しない）
+DEPLOY.md
+GIT_SETUP.md
+
+# エディタ・IDE設定
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.temp
